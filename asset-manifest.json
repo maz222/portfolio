@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.448b0d10.css",
+    "main.js": "/portfolio/static/js/main.b8be9315.js",
+    "static/js/787.28a6522c.chunk.js": "/portfolio/static/js/787.28a6522c.chunk.js",
+    "static/media/Uniqlone3.png": "/portfolio/static/media/Uniqlone3.3b665cc5b7af63f3da94.png",
+    "static/media/Manga3.png": "/portfolio/static/media/Manga3.dedfe134725ca8e3532e.png",
+    "static/media/SLIDE1.png": "/portfolio/static/media/SLIDE1.b740eca5b13e31afcc91.png",
+    "static/media/Manga2.png": "/portfolio/static/media/Manga2.9015e6b1cddc80282931.png",
+    "static/media/Bubble2.jpg": "/portfolio/static/media/Bubble2.d71b57e335c86ac9d333.jpg",
+    "static/media/LightsOut.jpg": "/portfolio/static/media/LightsOut.e9bd8f45280dad5b9021.jpg",
+    "static/media/VineLine1.jpg": "/portfolio/static/media/VineLine1.82d2c511af183eeffb9a.jpg",
+    "static/media/VineLine2.jpg": "/portfolio/static/media/VineLine2.ce84a1fdf11c30c69aa8.jpg",
+    "static/media/Bubble1.jpg": "/portfolio/static/media/Bubble1.cba43b5f72b77b4bac82.jpg",
+    "static/media/TapAndMatch2.jpg": "/portfolio/static/media/TapAndMatch2.eacbf3c70eeecca583e5.jpg",
+    "static/media/TapAndMatch.jpg": "/portfolio/static/media/TapAndMatch.636f9594f776412d5bed.jpg",
+    "static/media/ColorCaddy1.png": "/portfolio/static/media/ColorCaddy1.7e22b27980241c286d82.png",
+    "static/media/Uniqlone1.png": "/portfolio/static/media/Uniqlone1.798e08992515d6fad21f.png",
+    "static/media/ColorCaddy2.png": "/portfolio/static/media/ColorCaddy2.0f3ab12a7ed9f3d1c301.png",
+    "static/media/Uniqlone2.png": "/portfolio/static/media/Uniqlone2.b07839b13f0f15807fec.png",
+    "static/media/ColorCaddy3.png": "/portfolio/static/media/ColorCaddy3.125d2581e9b620fcfd29.png",
+    "static/media/Picross.jpg": "/portfolio/static/media/Picross.a66891f24eb693ced556.jpg",
+    "static/media/BRollinsResumeCurrent.pdf": "/portfolio/static/media/BRollinsResumeCurrent.64fc4121b8daf6e1ba1a.pdf",
+    "static/media/Manga1.png": "/portfolio/static/media/Manga1.3896c78f38e92facb5ad.png",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio/index.html",
+    "main.448b0d10.css.map": "/portfolio/static/css/main.448b0d10.css.map",
+    "main.b8be9315.js.map": "/portfolio/static/js/main.b8be9315.js.map",
+    "787.28a6522c.chunk.js.map": "/portfolio/static/js/787.28a6522c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.448b0d10.css",
+    "static/js/main.b8be9315.js"
+  ]
+}
