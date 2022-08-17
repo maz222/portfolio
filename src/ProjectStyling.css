@@ -1,0 +1,29 @@
+.project {
+    padding-bottom: 20px;
+}
+
+.description {
+    margin-top:10px !important;
+}
+
+.tools {
+    display:flex;
+    margin-top:10px;
+}
+
+.tools p {
+    padding-right:5px;
+}
+
+.links {
+    margin-top: 20px;
+}
+
+.links a {
+    margin-right: 5px;
+    padding:5px 10px 5px 10px;
+    background-color: #DC602E;
+    color:black !important;
+    text-decoration: none;
+    border-radius: 5px;
+}

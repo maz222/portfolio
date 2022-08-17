@@ -1,0 +1,25 @@
+#kojiProjects .description {
+    padding:10px 0 10px 0;
+}
+
+#kojiProjects .kojiLink {
+    padding-bottom: 5px;   
+}
+
+#kojiProjects .kojiLink a {
+    padding:5px 10px 5px 10px;
+    background-color: #DC602E;
+    color:black !important;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.kojiLink > * {
+    margin: 10px 0 10px 0;
+}
+
+.kojiLink {
+    border-bottom:2px solid rgba(0,0,0,.3);
+    display: flex;
+    align-items: center;
+}
